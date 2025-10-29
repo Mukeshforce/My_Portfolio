@@ -1,0 +1,57 @@
+[
+  {
+    "id": "exp-1",
+    "company": "Prompt Infotech",
+    "position": "Network & Network Security Intern",
+    "duration": "2023",
+    "startDate": "2023-06-01",
+    "endDate": "2023-08-31",
+    "description": "Completed hands-on training in network configuration, security concepts, and troubleshooting. Gained practical exposure to network infrastructure setup, security protocols implementation, and network monitoring. Worked on real-world scenarios involving router and switch configuration, firewall setup, and network security best practices.",
+    "technologies": ["Networking", "Network Security", "Cisco", "Firewalls", "Troubleshooting"],
+    "type": "work"
+  },
+  {
+    "id": "exp-2",
+    "company": "Qspiders",
+    "position": "Java Full Stack Development Training",
+    "duration": "2023 - 2024",
+    "startDate": "2023-01-01",
+    "endDate": "2024-01-31",
+    "description": "Completed comprehensive training in Java Full Stack Development covering Core Java, Advanced Java, SQL, HTML, CSS, JavaScript, Hibernate, and Spring Boot. Developed multiple projects demonstrating proficiency in both frontend and backend technologies. Gained hands-on experience in building enterprise-level web applications with modern frameworks and tools.",
+    "technologies": ["Core Java", "Advanced Java", "SQL", "HTML", "CSS", "JavaScript", "Hibernate", "Spring Boot"],
+    "type": "certification"
+  },
+  {
+    "id": "exp-3",
+    "company": "Adhiparasakthi Engineering College",
+    "position": "Bachelor of Technology in Information Technology",
+    "duration": "2020 - 2024",
+    "startDate": "2020-06-01",
+    "endDate": "2024-05-31",
+    "description": "Graduated with 7.98 CGPA from Adhiparasakthi Engineering College, Melmaruvathur, Chennai. Specialized in Information Technology with coursework in Data Structures & Algorithms, Machine Learning, Object-Oriented Programming, Database Management Systems, and Object-Oriented Analysis and Design. Completed major projects in Machine Learning and Computer Vision, demonstrating strong technical and analytical skills.",
+    "technologies": ["Data Structures", "Algorithms", "Machine Learning", "OOP", "DBMS", "Java", "Python"],
+    "type": "education"
+  },
+  {
+    "id": "exp-4",
+    "company": "Jayam Vidhyalaiya Matric Hr. Sec School",
+    "position": "Higher Secondary Certificate (HSC)",
+    "duration": "2020",
+    "startDate": "2019-06-01",
+    "endDate": "2020-03-31",
+    "description": "Completed Higher Secondary Certificate with 63.5% from Jayam Vidhyalaiya Matric Hr. Sec School, Dharmapuri. Focused on science stream with strong foundation in Mathematics, Physics, and Computer Science.",
+    "technologies": ["Mathematics", "Physics", "Computer Science"],
+    "type": "education"
+  },
+  {
+    "id": "exp-5",
+    "company": "St. Antony's Matric School",
+    "position": "Secondary School Leaving Certificate (SSLC)",
+    "duration": "2018",
+    "startDate": "2017-06-01",
+    "endDate": "2018-03-31",
+    "description": "Completed Secondary School Leaving Certificate with 78% from St. Antony's Matric School, Thiruvannamalai. Demonstrated strong academic performance across all subjects with particular interest in Mathematics and Science.",
+    "technologies": ["Mathematics", "Science", "English"],
+    "type": "education"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Core Java",
+    "level": 90,
+    "category": "backend"
+  },
+  {
+    "name": "SQL",
+    "level": 85,
+    "category": "backend"
+  },
+  {
+    "name": "Hibernate",
+    "level": 80,
+    "category": "backend"
+  },
+  {
+    "name": "Spring Boot",
+    "level": 75,
+    "category": "backend"
+  },
+  {
+    "name": "HTML",
+    "level": 85,
+    "category": "frontend"
+  },
+  {
+    "name": "CSS",
+    "level": 85,
+    "category": "frontend"
+  },
+  {
+    "name": "JavaScript",
+    "level": 80,
+    "category": "frontend"
+  },
+  {
+    "name": "Python",
+    "level": 85,
+    "category": "backend"
+  },
+  {
+    "name": "Machine Learning",
+    "level": 80,
+    "category": "ai"
+  },
+  {
+    "name": "TensorFlow",
+    "level": 75,
+    "category": "ai"
+  },
+  {
+    "name": "OpenCV",
+    "level": 75,
+    "category": "ai"
+  },
+  {
+    "name": "Data Structures & Algorithms",
+    "level": 85,
+    "category": "backend"
+  },
+  {
+    "name": "MySQL",
+    "level": 85,
+    "category": "backend"
+  },
+  {
+    "name": "Git & GitHub",
+    "level": 80,
+    "category": "devops"
+  },
+  {
+    "name": "Networking (CCNA)",
+    "level": 75,
+    "category": "devops"
+  }
+]
