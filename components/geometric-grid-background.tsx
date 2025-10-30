@@ -35,7 +35,8 @@ export function GeometricGridBackground() {
     if (!ctx) return;
 
     // Get theme colors
-    const currentTheme = getThemeByName(theme === "system" ? "light" : theme);
+    const selectedTheme = theme === "system" ? "light" : theme || "light";
+    const currentTheme = getThemeByName(selectedTheme);
     const gridConfig = currentTheme?.gridConfig || {
       gridSize: 60,
       lineColor: "#3b82f6",
